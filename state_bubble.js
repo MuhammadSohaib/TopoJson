@@ -5,8 +5,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.7396323,
-                    -86.8434593
+                    -86.8434593,
+                    32.7396323
                 ]
             },
             "type": "Feature",
@@ -19,8 +19,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    63.3461909,
-                    -152.837069
+                    -152.837069,
+                    63.3461909
                 ]
             },
             "type": "Feature",
@@ -33,8 +33,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.2039355,
-                    -111.6063565
+                    -111.6063565,
+                    34.2039355
                 ]
             },
             "type": "Feature",
@@ -47,8 +47,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.8955256,
-                    -92.4446262
+                    -92.4446262,
+                    34.8955256
                 ]
             },
             "type": "Feature",
@@ -61,8 +61,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.1551773,
-                    -119.5434183
+                    -119.5434183,
+                    37.1551773
                 ]
             },
             "type": "Feature",
@@ -75,8 +75,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    38.9938673,
-                    -105.5083188
+                    -105.5083188,
+                    38.9938673
                 ]
             },
             "type": "Feature",
@@ -89,8 +89,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    41.5797777,
-                    -72.7466665
+                    -72.7466665,
+                    41.5797777
                 ]
             },
             "type": "Feature",
@@ -103,8 +103,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    38.998538,
-                    -75.4416616
+                    -75.4416616,
+                    38.998538
                 ]
             },
             "type": "Feature",
@@ -117,8 +117,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.4574302,
-                    -82.4091478
+                    -82.4091478,
+                    28.4574302
                 ]
             },
             "type": "Feature",
@@ -131,8 +131,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.6295789,
-                    -83.4235109
+                    -83.4235109,
+                    32.6295789
                 ]
             },
             "type": "Feature",
@@ -145,8 +145,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.8281713,
-                    -155.4950401
+                    -155.4950401,
+                    19.8281713
                 ]
             },
             "type": "Feature",
@@ -159,8 +159,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    44.3484222,
-                    -114.5588538
+                    -114.5588538,
+                    44.3484222
                 ]
             },
             "type": "Feature",
@@ -173,8 +173,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    40.1028754,
-                    -89.1526108
+                    -89.1526108,
+                    40.1028754
                 ]
             },
             "type": "Feature",
@@ -187,8 +187,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    39.9030256,
-                    -86.2839503
+                    -86.2839503,
+                    39.9030256
                 ]
             },
             "type": "Feature",
@@ -201,8 +201,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    42.0700243,
-                    -93.4933473
+                    -93.4933473,
+                    42.0700243
                 ]
             },
             "type": "Feature",
@@ -215,8 +215,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    38.4985464,
-                    -98.3834298
+                    -98.3834298,
+                    38.4985464
                 ]
             },
             "type": "Feature",
@@ -229,8 +229,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.5336844,
-                    -85.2929801
+                    -85.2929801,
+                    37.5336844
                 ]
             },
             "type": "Feature",
@@ -243,8 +243,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.8634368,
-                    -91.7987173
+                    -91.7987173,
+                    30.8634368
                 ]
             },
             "type": "Feature",
@@ -257,8 +257,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    45.4092789,
-                    -68.6665979
+                    -68.6665979,
+                    45.4092789
                 ]
             },
             "type": "Feature",
@@ -271,8 +271,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    38.9466584,
-                    -76.6744939
+                    -76.6744939,
+                    38.9466584
                 ]
             },
             "type": "Feature",
@@ -285,8 +285,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    42.1565196,
-                    -71.4895915
+                    -71.4895915,
+                    42.1565196
                 ]
             },
             "type": "Feature",
@@ -299,8 +299,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    44.8441757,
-                    -85.660493
+                    -85.660493,
+                    44.8441757
                 ]
             },
             "type": "Feature",
@@ -313,8 +313,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    46.3161343,
-                    -94.1994801
+                    -94.1994801,
+                    46.3161343
                 ]
             },
             "type": "Feature",
@@ -327,8 +327,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.6864714,
-                    -89.6561377
+                    -89.6561377,
+                    32.6864714
                 ]
             },
             "type": "Feature",
@@ -341,8 +341,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    38.35075,
-                    -92.4567826
+                    -92.4567826,
+                    38.35075
                 ]
             },
             "type": "Feature",
@@ -355,8 +355,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    47.0511771,
-                    -109.6348174
+                    -109.6348174,
+                    47.0511771
                 ]
             },
             "type": "Feature",
@@ -369,8 +369,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    41.5433014,
-                    -99.8118616
+                    -99.8118616,
+                    41.5433014
                 ]
             },
             "type": "Feature",
@@ -383,8 +383,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    39.3310928,
-                    -116.6151469
+                    -116.6151469,
+                    39.3310928
                 ]
             },
             "type": "Feature",
@@ -397,8 +397,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    43.6726907,
-                    -71.5843145
+                    -71.5843145,
+                    43.6726907
                 ]
             },
             "type": "Feature",
@@ -411,8 +411,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    40.1072744,
-                    -74.6652012
+                    -74.6652012,
+                    40.1072744
                 ]
             },
             "type": "Feature",
@@ -425,8 +425,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.4346843,
-                    -106.1316181
+                    -106.1316181,
+                    34.4346843
                 ]
             },
             "type": "Feature",
@@ -439,8 +439,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    42.9133974,
-                    -75.5962723
+                    -75.5962723,
+                    42.9133974
                 ]
             },
             "type": "Feature",
@@ -453,8 +453,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    35.53971,
-                    -79.1308636
+                    -79.1308636,
+                    35.53971
                 ]
             },
             "type": "Feature",
@@ -467,8 +467,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    47.4421698,
-                    -100.4608163
+                    -100.4608163,
+                    47.4421698
                 ]
             },
             "type": "Feature",
@@ -481,8 +481,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    40.4149297,
-                    -82.7119975
+                    -82.7119975,
+                    40.4149297
                 ]
             },
             "type": "Feature",
@@ -495,8 +495,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    35.5900512,
-                    -97.4868149
+                    -97.4868149,
+                    35.5900512
                 ]
             },
             "type": "Feature",
@@ -509,8 +509,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    43.9717125,
-                    -120.6229578
+                    -120.6229578,
+                    43.9717125
                 ]
             },
             "type": "Feature",
@@ -523,8 +523,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    40.9024957,
-                    -77.8334514
+                    -77.8334514,
+                    40.9024957
                 ]
             },
             "type": "Feature",
@@ -537,8 +537,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    41.5974187,
-                    -71.5272723
+                    -71.5272723,
+                    41.5974187
                 ]
             },
             "type": "Feature",
@@ -551,8 +551,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    33.8741769,
-                    -80.8542699
+                    -80.8542699,
+                    33.8741769
                 ]
             },
             "type": "Feature",
@@ -565,8 +565,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    44.4467957,
-                    -100.2381762
+                    -100.2381762,
+                    44.4467957
                 ]
             },
             "type": "Feature",
@@ -579,8 +579,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    35.8585639,
-                    -86.3493573
+                    -86.3493573,
+                    35.8585639
                 ]
             },
             "type": "Feature",
@@ -593,8 +593,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.4347032,
-                    -99.2818238
+                    -99.2818238,
+                    31.4347032
                 ]
             },
             "type": "Feature",
@@ -607,8 +607,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    39.3349925,
-                    -111.6563326
+                    -111.6563326,
+                    39.3349925
                 ]
             },
             "type": "Feature",
@@ -621,8 +621,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    44.0604795,
-                    -72.6733274
+                    -72.6733274,
+                    44.0604795
                 ]
             },
             "type": "Feature",
@@ -635,8 +635,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.5222512,
-                    -78.6681938
+                    -78.6681938,
+                    37.5222512
                 ]
             },
             "type": "Feature",
@@ -649,8 +649,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    47.4073238,
-                    -120.5757999
+                    -120.5757999,
+                    47.4073238
                 ]
             },
             "type": "Feature",
@@ -663,8 +663,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    38.6472854,
-                    -80.6183274
+                    -80.6183274,
+                    38.6472854
                 ]
             },
             "type": "Feature",
@@ -677,8 +677,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    44.6309071,
-                    -89.7093916
+                    -89.7093916,
+                    44.6309071
                 ]
             },
             "type": "Feature",
@@ -691,8 +691,8 @@ var states = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    42.9918024,
-                    -107.5419255
+                    -107.5419255,
+                    42.9918024
                 ]
             },
             "type": "Feature",
