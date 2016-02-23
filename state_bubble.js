@@ -1,4 +1,4 @@
-var states = {
+var bicycleRental = {
     "type": "FeatureCollection",
     "features": [
         {
